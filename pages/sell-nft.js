@@ -20,7 +20,7 @@ export default function Home() {
                 />
                 <link rel="icon" href="/favicon.ico" />
             </Head>
-            <h3>Hi</h3>
+            <h3>SELL AN NFT!!!</h3>
         </>
     );
 }
